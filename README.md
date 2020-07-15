@@ -5,7 +5,7 @@ I am a mobile enthusiast and React Native Developer with a strong background in 
 ### 📫 How to reach me: ...
 Email: calebck@hotmail.com  
 LinkedIn: https://www.linkedin.com/in/caleb-kavanaugh        
-Blog: https://www.codeitcaleb.com
+Blog: https://codeitcaleb.com
 
 
 <!--
