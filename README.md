@@ -1,6 +1,6 @@
 # Caleb Kavanaugh
 
-I am a mobile enthusiast and React Native Developer with a strong background in JavaScript and Ruby. 
+Front End Engineer and Mobile Enthusiast specializing in React Native Development.
 
 ### 📫 How to reach me: ...
 Email: calebck@hotmail.com  
