@@ -1,6 +1,6 @@
 # Caleb Kavanaugh
 
-Front End Engineer and Mobile Enthusiast specializing in React Native Development.
+Full Stack Software Engineer and Mobile Enthusiast specializing in React Native Development.
 
 ### 📫 How to reach me: ...
 Email: calebck@hotmail.com  
