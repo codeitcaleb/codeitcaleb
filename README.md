@@ -1,6 +1,6 @@
 # Caleb Kavanaugh
 
-Full Stack Software Engineer and Mobile Enthusiast specializing in React Native Development.
+Full Stack Software Engineer and Mobile Enthusiast specializing in React/React Native and Ruby on Rails Development.
 
 ### 📫 How to reach me: ...
 Email: calebck@hotmail.com  
